@@ -7,7 +7,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,100:B31B1B&height=180&section=header&text=Vitor%20Cau%C3%A3&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%E2%80%A2%20UI%2FUX%20Designer%20%E2%80%A2%20Software%20Dev%20at%20CESAR%20School&descAlignY=58&descSize=16" />
 
 <div align="center">
-  <img src="Arquivos/OnTheSea.gif" width="100%" height="120" alt="Redemption is a virtue" />
+  <img src="Arquivos/OnTheSea.gif" width="100%" height="220" alt="Redemption is a virtue" />
 </div>
 
 <br/>
@@ -55,7 +55,7 @@ I'm an **Analysis and Systems Development (ADS)** student at **CESAR School** (R
   <img src="https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=javascript&logoColor=E53935" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-181717?style=for-the-badge&logo=html5&logoColor=E53935" alt="HTML5" />
 
-  <br/><br/>
+  <br/>
 
   **Frameworks, Game Dev & Databases** <br/>
   <img src="https://img.shields.io/badge/React-181717?style=for-the-badge&logo=react&logoColor=E53935" alt="React" />
@@ -66,7 +66,7 @@ I'm an **Analysis and Systems Development (ADS)** student at **CESAR School** (R
   <img src="https://img.shields.io/badge/MongoDB-181717?style=for-the-badge&logo=mongodb&logoColor=E53935" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MariaDB-181717?style=for-the-badge&logo=mariadb&logoColor=E53935" alt="MariaDB" />
 
-  <br/><br/>
+  <br/>
 
   **Design, Infra & DevOps** <br/>
   <img src="https://img.shields.io/badge/Figma-181717?style=for-the-badge&logo=figma&logoColor=E53935" alt="Figma" />
