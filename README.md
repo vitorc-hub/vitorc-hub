@@ -14,7 +14,7 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **CESAR School** (Recife/PE) pelo programa **Embarque Digital**, em busca de oportunidades de **estágio** nas áreas de Desenvolvimento Full-Stack, Front-End, Back-End, UI/UX Design, Cibersegurança, Suporte de TI ou ecossistema SAP/ABAP.
 
-- **Projetos & Construção Prática:** Atuação ponta a ponta no desenvolvimento de soluções acadêmicas e reais — com destaque para o **Tauzor** (projeto em parceria com o **Porto Digital** e **Embarque Digital**, onde colaborei no design e no back-end) e o **Turing Test** (jogo educativo feito em **C e Raylib** para ensinar conceitos de IA, atuando como **Product Owner, Designer e Desenvolvedor**).
+- **Projetos & Construção Prática:** Atuação ponta a ponta no desenvolvimento de soluções acadêmicas e reais com destaque para o **Tauzor** (projeto em parceria com o **Porto Digital** e **Embarque Digital**, onde colaborei no design e no back-end) e o **Turing Test** (jogo educativo feito em **C e Raylib** para ensinar conceitos de IA, atuando como **Product Owner, Designer e Desenvolvedor**).
 - **Visão Full-Stack & Produto:** Foco em unir interfaces bem desenhadas com lógica sólida no back-end, explorando constantemente novas tecnologias e arquiteturas através de projetos práticos.
 - **Estudando & Evoluindo:** Aprofundando conhecimentos em desenvolvimento **Full-Stack** (com foco em Back-End e **MongoDB**), **Cibersegurança** e **SAP ABAP** (*ABAP Essentials*).
 - **Bagagem & Soft Skills:** Inglês fluente com **3 anos de experiência como professor de inglês** e 1 ano em gestão administrativa e de caixa — trazendo comunicação clara, didática e visão de negócios para times de tecnologia.
