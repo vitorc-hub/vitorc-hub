@@ -20,15 +20,15 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **CESAR Sch
 
 - **Estudando & Evoluindo:** No momento, venho aprofundando meus estudos em desenvolvimento **Full-Stack** (com foco em Back-End e **MongoDB**), **Cibersegurança** e **SAP ABAP** (*ABAP Essentials*).
 
-- **Bagagem & Soft Skills:** Sou fluente em inglês, com **3 anos de experiência como professor de inglês** e 1 ano em gestão administrativa e de caixa — vivências que me deram comunicação clara, didática e senso prático para trabalhar em equipe.
+- **Bagagem & Soft Skills:** Sou fluente em inglês, com **3 anos de experiência como professor de inglês** e 1 ano em gestão administrativa e de caixa - vivências que me deram comunicação clara, didática e senso prático para trabalhar em equipe.
 
 <br/>
 
 <details>
-  <summary><strong>Read in English (Click to expand)</strong></summary>
+  <summary><img src="https://img.shields.io/badge/Read_in_English-B31B1B?style=for-the-badge" alt="Read in English" /></summary>
   <br/>
 
-  > *"There is no dialogue without an intense faith in people. Faith in their power to make and remake, to create and re-create, faith in their vocation to be more fully human — which is not the privilege of an elite, but the birthright of all." - Paulo Freire*
+  > *"There is no dialogue without an intense faith in people. Faith in their power to make and remake, to create and re-create, faith in their vocation to be more fully human - which is not the privilege of an elite, but the birthright of all." - Paulo Freire*
 
   ### About Me
 
@@ -40,7 +40,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **CESAR Sch
 
   - **Studying & Growing:** Currently deepening my skills in **Full-Stack development** (focusing on Back-End and **MongoDB**), **Cybersecurity**, and **SAP ABAP** (*ABAP Essentials*).
 
-  - **Background & Soft Skills:** Fluent in English with **3 years of experience as an English Teacher** and 1 year in administrative and cashier management — bringing clear communication, didactic clarity, and practical teamwork skills into tech environments.
+  - **Background & Soft Skills:** Fluent in English with **3 years of experience as an English Teacher** and 1 year in administrative and cashier management - bringing clear communication, didactic clarity, and practical teamwork skills into tech environments.
 </details>
 
 ---
@@ -94,4 +94,25 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **CESAR Sch
   <img src="https://img.shields.io/badge/Docker-181717?style=for-the-badge&logo=docker&logoColor=E53935" alt="Docker" />
   <img src="https://img.shields.io/badge/CMake-181717?style=for-the-badge&logo=cmake&logoColor=E53935" alt="CMake" />
   <img src="https://img.shields.io/badge/Raspberry_Pi-181717?style=for-the-badge&logo=raspberrypi&logoColor=E53935" alt="Raspberry Pi" />
-  <img src="
+  <img src="https://img.shields.io/badge/Arduino-181717?style=for-the-badge&logo=arduino&logoColor=E53935" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Pi--Hole-181717?style=for-the-badge&logo=pihole&logoColor=E53935" alt="Pi-Hole" />
+</div>
+
+---
+
+### Estatísticas no GitHub
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=vitorc-hub&show_icons=true&bg_color=121212&title_color=E53935&icon_color=E53935&text_color=FFFFFF&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorc-hub&bg_color=121212&title_color=E53935&text_color=FFFFFF&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=vitorc-hub&background=121212&border=121212&stroke=B31B1B&ring=E53935&fire=E53935&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E53935&sideLabels=CCCCCC&dates=888888" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/vitorc-hub/vitorc-hub/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,100:B31B1B&height=100&section=footer" />
