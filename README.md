@@ -121,16 +121,21 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **CESAR Sch
 ### Estatísticas no GitHub
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=vitorc-hub&show_icons=true&bg_color=121212&title_color=E53935&icon_color=E53935&text_color=FFFFFF&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorc-hub&bg_color=121212&title_color=E53935&text_color=FFFFFF&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-  <br/>
   <img src="https://streak-stats.demolab.com/?user=vitorc-hub&background=121212&border=121212&stroke=B31B1B&ring=E53935&fire=E53935&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E53935&sideLabels=CCCCCC&dates=888888" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vitorc-hub/vitorc-hub/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/vitorc-hub/vitorc-hub/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+      </td>
+    </tr>
+  </table>
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,100:B31B1B&height=100&section=footer" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,100:B31B1B&height=100&section=footer" />
