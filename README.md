@@ -137,5 +137,3 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **CESAR Sch
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,100:B31B1B&height=100&section=footer" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,100:B31B1B&height=100&section=footer" />
