@@ -25,7 +25,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **CESAR Sch
 <br/>
 
 <details>
-  <summary><img src="https://img.shields.io/badge/Read_in_English-B31B1B?style=for-the-badge" alt="Read in English" /></summary>
+  <summary><strong>Read in English</strong></summary>
   <br/>
 
   > *"There is no dialogue without an intense faith in people. Faith in their power to make and remake, to create and re-create, faith in their vocation to be more fully human - which is not the privilege of an elite, but the birthright of all." - Paulo Freire*
