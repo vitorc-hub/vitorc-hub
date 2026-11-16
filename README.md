@@ -4,27 +4,24 @@
   </a>
 </div>
 
-<h1 align="center">Olá, me chamo Vitor Cauã 👋</h1>
-<p align="center">
-  <strong>Desenvolvedor Full-Stack • UI/UX Designer • Estudante de ADS na CESAR School</strong>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,100:B31B1B&height=180&section=header&text=Vitor%20Cau%C3%A3&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Full-Stack%20%E2%80%A2%20UI%2FUX%20Designer%20%E2%80%A2%20ADS%20CESAR%20School&descAlignY=58&descSize=16" />
 
 > *"Não há diálogo se não há uma intensa fé nos homens. Fé no seu poder de fazer e de refazer. De criar e recriar. Fé na sua vocação de ser mais, que não é privilégio de alguns eleitos, mas direito dos homens." — Paulo Freire*
 
 ---
 
-### 💫 Sobre Mim
+### Sobre Mim
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **CESAR School** (Recife/PE) pelo programa **Embarque Digital**, em busca de oportunidades de **estágio** nas áreas de Desenvolvimento Full-Stack, Front-End, Back-End, UI/UX Design, Cibersegurança, Suporte de TI ou ecossistema SAP/ABAP.
 
-- 🚀 **Projetos & Construção Prática:** Atuação ponta a ponta no desenvolvimento de soluções acadêmicas e reais — com destaque para o **Tauzor** (projeto em parceria com o **Porto Digital** e **Embarque Digital**, onde colaborei no design e no back-end) e o **Turing Test** (jogo educativo feito em **C e Raylib** para ensinar conceitos de IA, atuando como **Product Owner, Designer e Desenvolvedor**).
-- 💻 **Visão Full-Stack & Produto:** Foco em unir interfaces bem desenhadas com lógica sólida no back-end, explorando constantemente novas tecnologias e arquiteturas através de projetos práticos.
-- 🌱 **Estudando & Evoluindo:** Aprofundando conhecimentos em desenvolvimento **Full-Stack** (com foco em Back-End e **MongoDB**), **Cibersegurança** e **SAP ABAP** (*ABAP Essentials*).
-- 🌎 **Bagagem & Soft Skills:** Inglês fluente com **3 anos de experiência como professor de inglês** e 1 ano em gestão administrativa e de caixa — trazendo comunicação clara, didática e visão de negócios para times de tecnologia.
+- **Projetos & Construção Prática:** Atuação ponta a ponta no desenvolvimento de soluções acadêmicas e reais — com destaque para o **Tauzor** (projeto em parceria com o **Porto Digital** e **Embarque Digital**, onde colaborei no design e no back-end) e o **Turing Test** (jogo educativo feito em **C e Raylib** para ensinar conceitos de IA, atuando como **Product Owner, Designer e Desenvolvedor**).
+- **Visão Full-Stack & Produto:** Foco em unir interfaces bem desenhadas com lógica sólida no back-end, explorando constantemente novas tecnologias e arquiteturas através de projetos práticos.
+- **Estudando & Evoluindo:** Aprofundando conhecimentos em desenvolvimento **Full-Stack** (com foco em Back-End e **MongoDB**), **Cibersegurança** e **SAP ABAP** (*ABAP Essentials*).
+- **Bagagem & Soft Skills:** Inglês fluente com **3 anos de experiência como professor de inglês** e 1 ano em gestão administrativa e de caixa — trazendo comunicação clara, didática e visão de negócios para times de tecnologia.
 
 ---
 
-### 🌐 Conecte-se comigo
+### Conecte-se comigo
 
 <div align="center">
   <a href="https://linkedin.com/in/vitorcaua-ti" target="_blank">
@@ -40,56 +37,52 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **CESAR Sch
 
 ---
 
-### 💻 Tech Stack & Ferramentas
+### Tech Stack & Ferramentas
 
 <div align="center">
   
   **Linguagens & Core** <br/>
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![C](https://img.shields.io/badge/C-181717?style=for-the-badge&logo=c&logoColor=E53935)
+  ![C++](https://img.shields.io/badge/C++-181717?style=for-the-badge&logo=cplusplus&logoColor=E53935)
+  ![C#](https://img.shields.io/badge/C%23-181717?style=for-the-badge&logo=csharp&logoColor=E53935)
+  ![Python](https://img.shields.io/badge/Python-181717?style=for-the-badge&logo=python&logoColor=E53935)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=javascript&logoColor=E53935)
+  ![HTML5](https://img.shields.io/badge/HTML5-181717?style=for-the-badge&logo=html5&logoColor=E53935)
 
   <br/><br/>
 
   **Frameworks, Game Dev & Bancos** <br/>
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![RayLib](https://img.shields.io/badge/RAYLIB-FFFFFF?style=for-the-badge&logo=raylib&logoColor=black)
-  ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+  ![React](https://img.shields.io/badge/React-181717?style=for-the-badge&logo=react&logoColor=E53935)
+  ![React Native](https://img.shields.io/badge/React_Native-181717?style=for-the-badge&logo=react&logoColor=E53935)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-181717?style=for-the-badge&logo=bootstrap&logoColor=E53935)
+  ![RayLib](https://img.shields.io/badge/RayLib-181717?style=for-the-badge&logo=raylib&logoColor=E53935)
+  ![Godot Engine](https://img.shields.io/badge/Godot-181717?style=for-the-badge&logo=godotengine&logoColor=E53935)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-181717?style=for-the-badge&logo=mongodb&logoColor=E53935)
+  ![MariaDB](https://img.shields.io/badge/MariaDB-181717?style=for-the-badge&logo=mariadb&logoColor=E53935)
 
   <br/><br/>
 
   **Design, Infra & DevOps** <br/>
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-  ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-  ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-  ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)
+  ![Figma](https://img.shields.io/badge/Figma-181717?style=for-the-badge&logo=figma&logoColor=E53935)
+  ![Aseprite](https://img.shields.io/badge/Aseprite-181717?style=for-the-badge&logo=aseprite&logoColor=E53935)
+  ![Git](https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=E53935)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=E53935)
+  ![Docker](https://img.shields.io/badge/Docker-181717?style=for-the-badge&logo=docker&logoColor=E53935)
+  ![CMake](https://img.shields.io/badge/CMake-181717?style=for-the-badge&logo=cmake&logoColor=E53935)
+  ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-181717?style=for-the-badge&logo=raspberrypi&logoColor=E53935)
+  ![Arduino](https://img.shields.io/badge/Arduino-181717?style=for-the-badge&logo=arduino&logoColor=E53935)
+  ![Pi-Hole](https://img.shields.io/badge/Pi--Hole-181717?style=for-the-badge&logo=pihole&logoColor=E53935)
 </div>
 
 ---
 
-### 📊 Estatísticas no GitHub
+### Estatísticas no GitHub
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.shion.dev/api?username=vitorc-hub&theme=crimson&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vitorc-hub&theme=crimson&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=vitorc-hub&show_icons=true&bg_color=121212&title_color=E53935&icon_color=E53935&text_color=FFFFFF&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorc-hub&bg_color=121212&title_color=E53935&text_color=FFFFFF&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=vitorc-hub&theme=crimson&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=vitorc-hub&background=121212&border=121212&stroke=B31B1B&ring=E53935&fire=E53935&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E53935&sideLabels=CCCCCC&dates=888888" />
 </div>
 
-<!-- Descomente a linha abaixo depois de configurar a GitHub Action da cobrinha:
-<div align="center">
-  <img src="https://raw.githubusercontent.com/vitorc-hub/vitorc-hub/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
--->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,100:B31B1B&height=100&section=footer" />
