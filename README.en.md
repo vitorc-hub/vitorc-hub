@@ -12,7 +12,7 @@
 
 <br/>
 
-> *"There is no dialogue without an intense faith in people. Faith in their power to make and remake, to create and re-create, faith in their vocation to be more fully human — which is not the privilege of an elite, but the birthright of all." — Paulo Freire*
+> *"There is no dialogue without an intense faith in people. Faith in their power to make and remake, to create and re-create, faith in their vocation to be more fully human - which is not the privilege of an elite, but the birthright of all." - Paulo Freire*
 
 ---
 
@@ -20,10 +20,10 @@
 
 I'm an **Analysis and Systems Development (ADS)** student at **CESAR School** (Recife, Brazil) through the **Embarque Digital** program, actively seeking **internship opportunities** across Full-Stack Development, Front-End, Back-End, UI/UX Design, Cybersecurity, IT Support, or SAP/ABAP ecosystems.
 
-- **Projects & Hands-On Building:** End-to-end experience building academic and real-world solutions — notably **Tauzor** (a project developed in partnership with **Porto Digital** and **Embarque Digital**, where I collaborated on UI design and back-end development) and **Turing Test** (an educational game built in **C and Raylib** to teach AI concepts, acting as **Product Owner, Designer, and Developer**).
+- **Projects & Hands-On Building:** End-to-end experience building academic and real-world solutions - notably **Tauzor** (a project developed in partnership with **Porto Digital** and **Embarque Digital**, where I collaborated on UI design and back-end development) and **Turing Test** (an educational game built in **C and Raylib** to teach AI concepts, acting as **Product Owner, Designer, and Developer**).
 - **Full-Stack & Product Mindset:** Focused on bridging well-crafted interfaces with solid back-end logic, continuously exploring new technologies and architectures through practical projects.
 - **Studying & Growing:** Deepening my skills in **Full-Stack development** (focusing on Back-End and **MongoDB**), **Cybersecurity**, and **SAP ABAP** (*ABAP Essentials*).
-- **Background & Soft Skills:** Fluent in English with **3 years of experience as an English Teacher** and 1 year in administrative and cashier management — bringing clear communication, didactic clarity, and business awareness to tech teams.
+- **Background & Soft Skills:** Fluent in English with **3 years of experience as an English Teacher** and 1 year in administrative and cashier management - bringing clear communication, didactic clarity, and business awareness to tech teams.
 
 ---
 
