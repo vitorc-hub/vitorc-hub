@@ -16,11 +16,15 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **CESAR Sch
 
 - **Projetos & Construção Prática:** Gosto de ajudar e colaborar do início ao fim. Entre os projetos que ajudei a tirar do papel estão o **Tauzor** (desenvolvido em parceria com o **Porto Digital** e o **Embarque Digital**, onde atuei no design e no back-end) e o **Turing Test** (um jogo educativo feito em **C e Raylib** para ensinar conceitos de IA, no qual assumi o papel de **Product Owner, Designer e Desenvolvedor**).
 
+
 - **Visão Full-Stack & Produto:** Tenho foco em unir interfaces bem pensadas com lógica sólida no back-end, explorando novas tecnologias e arquiteturas através de projetos reais.
+
 
 - **Estudando & Evoluindo:** No momento, venho aprofundando meus estudos em desenvolvimento **Full-Stack** (com foco em Back-End e **MongoDB**), **Cibersegurança** e **SAP ABAP** (*ABAP Essentials*).
 
+
 - **Bagagem & Soft Skills:** Sou fluente em inglês, com **3 anos de experiência como professor de inglês** e 1 ano em gestão administrativa e de caixa - vivências que me deram comunicação clara, didática e senso prático para trabalhar em equipe.
+
 
 <br/>
 
@@ -62,6 +66,11 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **CESAR Sch
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/vitorc.xzy" target="_blank">
     <img height="32" src="https://img.shields.io/badge/Instagram-B31B1B?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <br/><br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://vitorc-hub.itch.io/" target="_blank">
+    <img height="32" src="https://img.shields.io/badge/Itch.io-B31B1B?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch.io" />
   </a>
 </p>
 
