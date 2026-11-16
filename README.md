@@ -48,7 +48,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **CESAR Sch
 ### Conecte-se comigo
 
 <p align="left">
-  <img align="left" src="Arquivos/hii.gif" width="245" alt="GIF decorativo" />
+  <img align="left" src="Arquivos/hii.gif" width="50%" height="300" alt="GIF decorativo" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/vitorcaua-ti" target="_blank">
     <img height="32" src="https://img.shields.io/badge/LinkedIn-B31B1B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yaDE0bS0uNSAxNS41di01LjNhMy4yNiAzLjI2IDAgMCAwLTMuMjYtMy4yNmMtLjg1IDAtMS44NC41Mi0yLjI4IDEuM3YtMS4xMUgxM3Y2LjM3aDIuNzZ2LTMuNzRjMC0uOTkuODQtMS43OSAxLjg3LTEuNzkgMS4wNCAwIDEuODcuOCAxLjg3IDEuNzl2My43NEgxOC41TTYuODggOC41NmExLjY4IDEuNjggMCAwIDAgMS42OC0xLjY4Yy0uMDEtLjkzLS43Ni0xLjY4LTEuNjgtMS42OGExLjY5IDEuNjkgMCAwIDAtMS42OSAxLjY4YzAgLjkyLjc2IDEuNjggMS42OSAxLjY4bTEuMzcgOS45NFYxMi4xSDUuNXY2LjRoMi43NVoiLz48L3N2Zz4=&logoColor=white" alt="LinkedIn" />
