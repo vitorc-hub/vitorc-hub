@@ -15,7 +15,6 @@
 
 > *"Não há diálogo se não há uma intensa fé nos homens. Fé no seu poder de fazer e de refazer. De criar e recriar. Fé na sua vocação de ser mais, que não é privilégio de alguns eleitos, mas direito dos homens." — Paulo Freire*
   
-> *"Não há diálogo se não há uma intensa fé nos homens. Fé no seu poder de fazer e de refazer. De criar e recriar. Fé na sua vocação de ser mais, que não é privilégio de alguns eleitos, mas direito dos homens." — Paulo Freire*
 
 ---
 
