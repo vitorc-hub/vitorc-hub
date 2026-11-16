@@ -7,7 +7,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,100:B31B1B&height=180&section=header&text=Vitor%20Cau%C3%A3&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Full-Stack%20%E2%80%A2%20UI%2FUX%20Designer%20%E2%80%A2%20ADS%20CESAR%20School&descAlignY=58&descSize=16" />
 <div align="center">
   
-  <img src="hii.gif" width="450" alt="Vitor Cauã"/> </div>
+  <img src="hii.gif" width="600" alt="Vitor Cauã"/> </div>
   
 > *"Não há diálogo se não há uma intensa fé nos homens. Fé no seu poder de fazer e de refazer. De criar e recriar. Fé na sua vocação de ser mais, que não é privilégio de alguns eleitos, mas direito dos homens." — Paulo Freire*
 
