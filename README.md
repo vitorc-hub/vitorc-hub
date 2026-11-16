@@ -7,7 +7,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,100:B31B1B&height=180&section=header&text=Vitor%20Cau%C3%A3&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Full-Stack%20%E2%80%A2%20UI%2FUX%20Designer%20%E2%80%A2%20ADS%20CESAR%20School&descAlignY=58&descSize=16" />
 
 <div align="center">
-  <img src="My%20Work%20Is%20Not%20Yet%20Done.gif" width="100%" height="120" alt="Banner de estrelas" />
+  <img src="OnTheSea.gif" width="100%" height="120" alt="Banner de estrelas" />
 </div>
 
 <br/>
