@@ -47,17 +47,26 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **CESAR Sch
 
 ### Conecte-se comigo
 
-<div align="center">
-  <a href="https://linkedin.com/in/vitorcaua-ti" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-B31B1B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yaDE0bS0uNSAxNS41di01LjNhMy4yNiAzLjI2IDAgMCAwLTMuMjYtMy4yNmMtLjg1IDAtMS44NC41Mi0yLjI4IDEuM3YtMS4xMUgxM3Y2LjM3aDIuNzZ2LTMuNzRjMC0uOTkuODQtMS43OSAxLjg3LTEuNzkgMS4wNCAwIDEuODcuOCAxLjg3IDEuNzl2My43NEgxOC41TTYuODggOC41NmExLjY4IDEuNjggMCAwIDAgMS42OC0xLjY4Yy0uMDEtLjkzLS43Ni0xLjY4LTEuNjgtMS42OGExLjY5IDEuNjkgMCAwIDAtMS42OSAxLjY4YzAgLjkyLjc2IDEuNjggMS42OSAxLjY4bTEuMzcgOS45NFYxMi4xSDUuNXY2LjRoMi43NVoiLz48L3N2Zz4=&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:vitorshfa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-B31B1B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://instagram.com/vitorc.xzy" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-B31B1B?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td valign="middle">
+      <a href="https://linkedin.com/in/vitorcaua-ti" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-B31B1B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yaDE0bS0uNSAxNS41di01LjNhMy4yNiAzLjI2IDAgMCAwLTMuMjYtMy4yNmMtLjg1IDAtMS44NC41Mi0yLjI4IDEuM3YtMS4xMUgxM3Y2LjM3aDIuNzZ2LTMuNzRjMC0uOTkuODQtMS43OSAxLjg3LTEuNzkgMS4wNCAwIDEuODcuOCAxLjg3IDEuNzl2My43NEgxOC41TTYuODggOC41NmExLjY4IDEuNjggMCAwIDAgMS42OC0xLjY4Yy0uMDEtLjkzLS43Ni0xLjY4LTEuNjgtMS42OGExLjY5IDEuNjkgMCAwIDAtMS42OSAxLjY4YzAgLjkyLjc2IDEuNjggMS42OSAxLjY4bTEuMzcgOS45NFYxMi4xSDUuNXY2LjRoMi43NVoiLz48L3N2Zz4=&logoColor=white" alt="LinkedIn" />
+      </a>
+      <br/><br/>
+      <a href="mailto:vitorshfa@gmail.com">
+        <img src="https://img.shields.io/badge/Email-B31B1B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      </a>
+      <br/><br/>
+      <a href="https://instagram.com/vitorc.xzy" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-B31B1B?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+      </a>
+    </td>
+    <td valign="middle" align="center">
+      <img src="Arquivos/hii.gif" width="150" alt="GIF decorativo" />
+    </td>
+  </tr>
+</table>
 
 ---
 
