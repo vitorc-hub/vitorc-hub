@@ -55,7 +55,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **CESAR Sch
   <img src="https://img.shields.io/badge/JavaScript-181717?style=for-the-badge&logo=javascript&logoColor=E53935" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-181717?style=for-the-badge&logo=html5&logoColor=E53935" alt="HTML5" />
 
-  <br/><br/>
+  <br/>
 
   **Frameworks, Game Dev & Bancos** <br/>
   <img src="https://img.shields.io/badge/React-181717?style=for-the-badge&logo=react&logoColor=E53935" alt="React" />
@@ -66,7 +66,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **CESAR Sch
   <img src="https://img.shields.io/badge/MongoDB-181717?style=for-the-badge&logo=mongodb&logoColor=E53935" alt="MongoDB" />
   <img src="https://img.shields.io/badge/MariaDB-181717?style=for-the-badge&logo=mariadb&logoColor=E53935" alt="MariaDB" />
 
-  <br/><br/>
+  <br/>
 
   **Design, Infra & DevOps** <br/>
   <img src="https://img.shields.io/badge/Figma-181717?style=for-the-badge&logo=figma&logoColor=E53935" alt="Figma" />
