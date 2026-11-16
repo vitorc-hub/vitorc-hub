@@ -8,7 +8,7 @@
 <div align="center">
   
   <div align="center">
-  <img src="hii.gif" width="100%" height="120" alt="Banner de estrelas" />
+  <img src="My Work Is Not Yet Done.gif" width="100%" height="120" alt="Banner de estrelas" />
 </div>
 
 <br/>
