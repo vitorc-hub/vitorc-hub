@@ -1,13 +1,7 @@
-<div align="right">
-  <a href="https://github.com/vitorc-hub/vitorc-hub/blob/main/README.en.md">
-    <img src="https://img.shields.io/badge/Language-English-B31B1B?style=for-the-badge" alt="Read in English" />
-  </a>
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,100:B31B1B&height=180&section=header&text=Vitor%20Cau%C3%A3&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Full-Stack%20%E2%80%A2%20UI%2FUX%20Designer%20%E2%80%A2%20ADS%20CESAR%20School&descAlignY=58&descSize=16" />
 
 <div align="center">
-  <img src="Arquivos/OnTheSea.gif" width="100%" height="120" alt="Banner de estrelas" />
+  <img src="Arquivos/OnTheSea.gif" width="100%" height="220" alt="Banner de estrelas" />
 </div>
 
 <br/>
@@ -18,12 +12,36 @@
 
 ### Sobre Mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **CESAR School** (Recife/PE) pelo programa **Embarque Digital**, em busca de oportunidades de **estágio** nas áreas de Desenvolvimento Full-Stack, Front-End, Back-End, UI/UX Design, Cibersegurança, Suporte de TI ou ecossistema SAP/ABAP.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **CESAR School** (Recife/PE) pelo programa **Embarque Digital**. Busco oportunidades de **estágio** onde eu possa contribuir e evoluir em Desenvolvimento Full-Stack, Front-End, Back-End, UI/UX Design, Cibersegurança, Suporte de TI ou no ecossistema SAP/ABAP.
 
-- **Projetos & Construção Prática:** Atuação ponta a ponta no desenvolvimento de soluções acadêmicas e reais, com destaque para o **Tauzor** (projeto em parceria com o **Porto Digital** e **Embarque Digital**, onde colaborei no design e no back-end) e o **Turing Test** (jogo educativo feito em **C e Raylib** para ensinar conceitos de IA, atuando como **Product Owner, Designer e Desenvolvedor**).
-- **Visão Full-Stack & Produto:** Foco em unir interfaces bem desenhadas com lógica sólida no back-end, explorando constantemente novas tecnologias e arquiteturas através de projetos práticos.
-- **Estudando & Evoluindo:** Aprofundando conhecimentos em desenvolvimento **Full-Stack** (com foco em Back-End e **MongoDB**), **Cibersegurança** e **SAP ABAP** (*ABAP Essentials*).
-- **Bagagem & Soft Skills:** Inglês fluente com **3 anos de experiência como professor de inglês** e 1 ano em gestão administrativa e de caixa, trazendo comunicação clara, didática e visão de negócios para times de tecnologia.
+- **Projetos & Construção Prática:** Gosto de botar a mão na massa do início ao fim. Entre os projetos que ajudei a tirar do papel estão o **Tauzor** (desenvolvido em parceria com o **Porto Digital** e o **Embarque Digital**, onde atuei no design e no back-end) e o **Turing Test** (um jogo educativo feito em **C e Raylib** para ensinar conceitos de IA, no qual assumi o papel de **Product Owner, Designer e Desenvolvedor**).
+
+- **Visão Full-Stack & Produto:** Tenho foco em unir interfaces bem pensadas com lógica sólida no back-end, explorando novas tecnologias e arquiteturas através de projetos reais.
+
+- **Estudando & Evoluindo:** No momento, venho aprofundando meus estudos em desenvolvimento **Full-Stack** (com foco em Back-End e **MongoDB**), **Cibersegurança** e **SAP ABAP** (*ABAP Essentials*).
+
+- **Bagagem & Soft Skills:** Sou fluente em inglês, com **3 anos de experiência como professor de inglês** e 1 ano em gestão administrativa e de caixa — vivências que me deram comunicação clara, didática e senso prático para trabalhar em equipe.
+
+<br/>
+
+<details>
+  <summary><strong>Read in English (Click to expand)</strong></summary>
+  <br/>
+
+  > *"There is no dialogue without an intense faith in people. Faith in their power to make and remake, to create and re-create, faith in their vocation to be more fully human — which is not the privilege of an elite, but the birthright of all." - Paulo Freire*
+
+  ### About Me
+
+  I'm an **Analysis and Systems Development (ADS)** student at **CESAR School** (Recife, Brazil) through the **Embarque Digital** program. I'm currently looking for **internship opportunities** where I can contribute and grow across Full-Stack Development, Front-End, Back-End, UI/UX Design, Cybersecurity, IT Support, or SAP/ABAP ecosystems.
+
+  - **Projects & Hands-On Building:** I enjoy building solutions from the ground up. Highlights include **Tauzor** (developed in partnership with **Porto Digital** and **Embarque Digital**, where I worked on UI design and back-end development) and **Turing Test** (an educational game built in **C and Raylib** to teach AI concepts, where I acted as **Product Owner, Designer, and Developer**).
+
+  - **Full-Stack & Product Mindset:** Focused on bridging thoughtful interfaces with solid back-end logic, continuously exploring new technologies and architectures through practical projects.
+
+  - **Studying & Growing:** Currently deepening my skills in **Full-Stack development** (focusing on Back-End and **MongoDB**), **Cybersecurity**, and **SAP ABAP** (*ABAP Essentials*).
+
+  - **Background & Soft Skills:** Fluent in English with **3 years of experience as an English Teacher** and 1 year in administrative and cashier management — bringing clear communication, didactic clarity, and practical teamwork skills into tech environments.
+</details>
 
 ---
 
@@ -76,19 +94,4 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **CESAR Sch
   <img src="https://img.shields.io/badge/Docker-181717?style=for-the-badge&logo=docker&logoColor=E53935" alt="Docker" />
   <img src="https://img.shields.io/badge/CMake-181717?style=for-the-badge&logo=cmake&logoColor=E53935" alt="CMake" />
   <img src="https://img.shields.io/badge/Raspberry_Pi-181717?style=for-the-badge&logo=raspberrypi&logoColor=E53935" alt="Raspberry Pi" />
-  <img src="https://img.shields.io/badge/Arduino-181717?style=for-the-badge&logo=arduino&logoColor=E53935" alt="Arduino" />
-  <img src="https://img.shields.io/badge/Pi--Hole-181717?style=for-the-badge&logo=pihole&logoColor=E53935" alt="Pi-Hole" />
-</div>
-
----
-
-### Estatísticas no GitHub
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=vitorc-hub&show_icons=true&bg_color=121212&title_color=E53935&icon_color=E53935&text_color=FFFFFF&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorc-hub&bg_color=121212&title_color=E53935&text_color=FFFFFF&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=vitorc-hub&background=121212&border=121212&stroke=B31B1B&ring=E53935&fire=E53935&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E53935&sideLabels=CCCCCC&dates=888888" />
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,100:B31B1B&height=100&section=footer" />
+  <img src="
