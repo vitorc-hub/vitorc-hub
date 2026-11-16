@@ -9,17 +9,17 @@
   <strong>Desenvolvedor Full-Stack • UI/UX Designer • Estudante de ADS na CESAR School</strong>
 </p>
 
-> *"Não há diálogo se não há uma intensa fé nos homens. Fé no seu poder de fazer e de refazer. De criar e recriar. Fé na sua vocação de ser mais, que não é privilégio de alguns eleitos, mas direito dos homens. -Paulo Freire"*
+> *"Não há diálogo se não há uma intensa fé nos homens. Fé no seu poder de fazer e de refazer. De criar e recriar. Fé na sua vocação de ser mais, que não é privilégio de alguns eleitos, mas direito dos homens." — Paulo Freire*
 
 ---
 
-###  Sobre Mim
+### 💫 Sobre Mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **CESAR School** (Recife/PE) pelo programa **Embarque Digital**, buscando oportunidades de **estágio** em Desenvolvimento Front-End, UI/UX Design, cibersegurança, Suporte de T.I ou ecossistema SAP/ABAP.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **CESAR School** (Recife/PE) pelo programa **Embarque Digital**, em busca de oportunidades de **estágio** nas áreas de Desenvolvimento Full-Stack, Front-End, Back-End, UI/UX Design, Cibersegurança, Suporte de TI ou ecossistema SAP/ABAP.
 
-- 🔭 **Trabalhando atualmente no *Turing Test*:** Atuo como **Product Owner, Designer e Desenvolvedor** neste jogo educativo feito em **C e Raylib** para ensinar conceitos de Inteligência Artificial — cuidando desde a visão de produto e estética até a implementação do código.
-- 🤝 **Experiência em Projetos Reais:** Colaborei no design e no desenvolvimento back-end do **Tauzor**, projeto desenvolvido em parceria com o **Porto Digital**.
-- 🌱 **Estudando & Evoluindo:** Aprofundando conhecimentos em **Cibersegurança**, estudando **SAP ABAP** (*ABAP Essentials*) e me preparando para focar em Back-End e **MongoDB** no próximo semestre.
+- 🚀 **Projetos & Construção Prática:** Atuação ponta a ponta no desenvolvimento de soluções acadêmicas e reais — com destaque para o **Tauzor** (projeto em parceria com o **Porto Digital** e **Embarque Digital**, onde colaborei no design e no back-end) e o **Turing Test** (jogo educativo feito em **C e Raylib** para ensinar conceitos de IA, atuando como **Product Owner, Designer e Desenvolvedor**).
+- 💻 **Visão Full-Stack & Produto:** Foco em unir interfaces bem desenhadas com lógica sólida no back-end, explorando constantemente novas tecnologias e arquiteturas através de projetos práticos.
+- 🌱 **Estudando & Evoluindo:** Aprofundando conhecimentos em desenvolvimento **Full-Stack** (com foco em Back-End e **MongoDB**), **Cibersegurança** e **SAP ABAP** (*ABAP Essentials*).
 - 🌎 **Bagagem & Soft Skills:** Inglês fluente com **3 anos de experiência como professor de inglês** e 1 ano em gestão administrativa e de caixa — trazendo comunicação clara, didática e visão de negócios para times de tecnologia.
 
 ---
